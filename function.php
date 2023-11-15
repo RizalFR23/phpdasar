@@ -61,3 +61,5 @@ function bilangan_ganjil_genap ($angka){
     echo "<br>";
     bilangan_ganjil_genap(1996);
 ?>
+
+// coba comit
